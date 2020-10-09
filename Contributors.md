@@ -14,3 +14,4 @@
 - [Victor Leuthier dos Santos](https://github.com/leuthier)
 - [Demis Moacir Gomes](https://github.com/demisgomes)
 - [Kimbelly Emanuelle Avelino Ferraz](https://github.com/kimbellyf)
+- [Matheus Daleste](https://github.com/daleste777)
